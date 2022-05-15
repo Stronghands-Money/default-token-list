@@ -1,19 +1,19 @@
 {
   "name": "@stronghandsmoney/default-token-list",
-  "version": "1.0.0",
+  "version": "1.3.4",
   "description": "Stronghands Money default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "main": "build/stronghands-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "node src/write.js > build/stronghands-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/stronghands-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/Stronghands-Money/default-token-list.git"
   },
   "keywords": [
     "stronghands",
@@ -21,18 +21,16 @@
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "Stronghands Money",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/Stronghands-Money/default-token-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "homepage": "https://github.com/Stronghands-Money/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-lists": "^1.0.0-beta.8",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
-    "mocha": "^8.0.1",
-    "rimraf": "^3.0.2"
+    "mocha": "^8.0.1"
   }
 }
