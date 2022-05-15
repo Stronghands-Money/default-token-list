@@ -5,12 +5,12 @@ const testnet = require("./tokens/testnet.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Stronghands Money List",
+    name: "SMXSwap List",
     timestamp: new Date().toISOString(),
     version: {
-      major: +parsed[1],
-      minor: +parsed[3],
-      patch: +parsed[6],
+      major: +parsed[0],
+      minor: +parsed[1],
+      patch: +parsed[2],
     },
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",

@@ -1,15 +1,15 @@
 {
   "name": "@stronghandsmoney/default-token-list",
-  "version": "1.3.6",
-  "description": "Stronghands Money default token list",
-  "main": "build/stronghands-default.tokenlist.json",
+  "version": "1.4.0",
+  "description": "◦ The Stronghands Money default token list",
+  "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "node src/write.js > build/stronghands-default.tokenlist.json",
+    "build": "node src/write.js > build/uniswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/stronghands-default.tokenlist.json"
+    "build/uniswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
   "homepage": "https://github.com/Stronghands-Money/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1"
