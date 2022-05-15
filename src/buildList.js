@@ -10,7 +10,7 @@ module.exports = function buildList() {
     version: {
       major: +parsed[1],
       minor: +parsed[3],
-      patch: +parsed[4],
+      patch: +parsed[6],
     },
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
