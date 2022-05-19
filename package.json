@@ -1,6 +1,6 @@
 {
   "name": "@stronghandsmoney/default-token-list",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "◦ The Stronghands Money default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {

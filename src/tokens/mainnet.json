@@ -1,11 +1,11 @@
 [
   {
     "name": "Stronghands Money",
-    "address": "0x903296C59c1AF22156b0aEe13B641A78d670D4DE",
+    "address": "0xb6D50724778652b5a51E578d12707D03E9bdD531",
     "symbol": "SMX",
     "decimals": 18,
     "chainId": 25,
-    "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x903296C59c1AF22156b0aEe13B641A78d670D4DE/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0xb6D50724778652b5a51E578d12707D03E9bdD531/logo.png"
   },
   {
     "name": "Wrapped CRO",
