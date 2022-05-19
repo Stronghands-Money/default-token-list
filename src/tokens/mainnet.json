@@ -62,5 +62,21 @@
     "decimals": 6,
     "chainId": 25,
     "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0/logo.png"
+  },
+  {
+    "name": "Gaur Money",
+    "address": "0x046cb616d7a52173e4Da9efF1BFd590550aa3228",
+    "symbol": "GAUR",
+    "decimals": 18,
+    "chainId": 25,
+    "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x046cb616d7a52173e4Da9efF1BFd590550aa3228/logo.png"
+  },
+  {
+    "name": "Gaur Money Shares",
+    "address": "0x66ec6E9F61ac288f5BA661CD9a2dBe3aBf9871C9",
+    "symbol": "GSHARE",
+    "decimals": 18,
+    "chainId": 25,
+    "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x66ec6E9F61ac288f5BA661CD9a2dBe3aBf9871C9/logo.png"
   }
 ]
