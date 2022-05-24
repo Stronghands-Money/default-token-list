@@ -1,10 +1,10 @@
 {
   "name": "SMXSwap List",
-  "timestamp": "2022-05-19T11:32:06.132Z",
+  "timestamp": "2022-05-24T14:43:43.128Z",
   "version": {
     "major": 1,
     "minor": 4,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -47,11 +47,11 @@
     },
     {
       "name": "Stronghands Money",
-      "address": "0xb6D50724778652b5a51E578d12707D03E9bdD531",
+      "address": "0x53B988068cb6f8CB87c6428307e5f642e473D820",
       "symbol": "SMX",
       "decimals": 18,
       "chainId": 25,
-      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0xb6D50724778652b5a51E578d12707D03E9bdD531/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x53B988068cb6f8CB87c6428307e5f642e473D820/logo.png"
     },
     {
       "name": "USD Coin",
