@@ -1,0 +1,113 @@
+{
+  "name": "SMXSwap List",
+  "timestamp": "2022-05-19T11:32:06.132Z",
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 2
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "stronghands",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Cardano",
+      "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
+      "symbol": "ADA",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0xF2001B145b43032AAF5Ee2884e456CCd805F677D/logo.png"
+    },
+    {
+      "name": "Gaur Money",
+      "address": "0x046cb616d7a52173e4Da9efF1BFd590550aa3228",
+      "symbol": "GAUR",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x046cb616d7a52173e4Da9efF1BFd590550aa3228/logo.png"
+    },
+    {
+      "name": "Gaur Money Shares",
+      "address": "0x66ec6E9F61ac288f5BA661CD9a2dBe3aBf9871C9",
+      "symbol": "GSHARE",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x66ec6E9F61ac288f5BA661CD9a2dBe3aBf9871C9/logo.png"
+    },
+    {
+      "name": "Stronghands Money",
+      "address": "0xb6D50724778652b5a51E578d12707D03E9bdD531",
+      "symbol": "SMX",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0xb6D50724778652b5a51E578d12707D03E9bdD531/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x66e428c3f67a68878562e79A0234c1F83c208770/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x062E66477Faf219F25D27dCED647BF57C3107d52/logo.png"
+    },
+    {
+      "name": "Wrapped CRO",
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "symbol": "WCRO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a/logo.png"
+    },
+    {
+      "name": "Wrapped CRO",
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "symbol": "WCRO",
+      "decimals": 18,
+      "chainId": 338,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 338,
+      "logoURI": "https://raw.githubusercontent.com/Stronghands-Money/assets/main/tokens/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a/logo.png"
+    }
+  ]
+}
